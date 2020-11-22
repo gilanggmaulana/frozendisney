@@ -1,0 +1,226 @@
+.goc-icn-login, .goc-icn-login-bar{ background-image:url();  background-size: 32px }
+        html.goc-no-data-uri .goc-icn-login, html.goc-no-data-uri .goc-icn-login-bar{ background-image:url() }
+        @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+          .goc-icn-login, .goc-icn-login-bar{ background-image:url(); }
+        }
+.bar-dropdown-content .goc-thumb-link{ height: 500px; }
+#goc-desktop-global .goc-desktop:hover .bar-dropdown-content{max-height: 532px;}
+
+.goc-icn-login, .goc-icn-login-bar{ background-image:url();  background-size: 32px }
+        html.goc-no-data-uri .goc-icn-login, html.goc-no-data-uri .goc-icn-login-bar{ background-image:url() }
+        @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+          .goc-icn-login, .goc-icn-login-bar{ background-image:url(); }
+        }
+        .bar-dropdown-content .goc-thumb-link{ height: 500px; }
+#goc-desktop-global .goc-desktop:hover .bar-dropdown-content{max-height: 532px;}
+
+.module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-items .local-nav-item .local-nav-top-item { color: #d8f5fb; fill: #d8f5fb; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-items .local-nav-more .local-nav-more-link.local-nav-has-sublinks { color: #d8f5fb; fill: #d8f5fb; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-items .local-nav-item .local-nav-top-item.local-nav-has-sublinks svg.local-nav-sublinks-arrow { stroke: #d8f5fb; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-items .local-nav-more .local-nav-more-link.local-nav-has-sublinks svg.local-nav-sublinks-arrow { stroke: #d8f5fb; }
+      .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-items .local-nav-item .local-nav-top-item.local-nav-active:after, .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-items .local-nav-item .local-nav-top-item.local-nav-active span:after { background-color: #d1a4db; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-items .local-nav-item.item-open .local-nav-top-item span { color: #d1a4db; fill: #d1a4db; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar.has-overflow.local-nav-more-open .local-nav-items .local-nav-more .local-nav-more-link.local-nav-has-sublinks span { color: #d1a4db; fill: #d1a4db; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar { background-color: #00102e; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar:before { background-color: #00102e; }
+        @media only screen and (min-width: 1601px){
+          .module.local_nav_bar#ref-1-0{ background-color: #00102e; }
+          .module.local_nav_bar#ref-1-0 #local-nav-bar.local-nav-fixed{ border-color: #00102e; }
+        }
+          .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-items .local-nav-item { border-image: linear-gradient(to bottom, #00102e 50%, #3b8da9 100%) 1 100%; }
+          .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-items .local-nav-more { border-image: linear-gradient(to bottom, #00102e 50%, #3b8da9 100%) 1 100%; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-overflow-items .local-nav-item .local-nav-top-item { color: #d8f5fb; fill: #d8f5fb; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-overflow-items .local-nav-item .local-nav-top-item.local-nav-has-sublinks svg.local-nav-sublinks-arrow { stroke: #d8f5fb; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar.has-overflow.has-overflowing-overflow .local-nav-overflow-items .local-nav-overflow-btn svg {
+          fill: #d8f5fb;
+        }
+      .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-overflow-items .local-nav-item .local-nav-top-item.local-nav-active:after, .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-overflow-items .local-nav-item .local-nav-top-item.local-nav-active span:after { background-color: #d1a4db; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-overflow-items .local-nav-item.item-open .local-nav-top-item span { color: #e9d4ec; fill: #e9d4ec; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-overflow-items .local-nav-item { background-color: #741a74; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar.has-overflow.local-nav-more-open .local-nav-items .local-nav-more .local-nav-more-link.local-nav-has-sublinks svg.local-nav-sublinks-arrow { fill: #741a74; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar.has-overflow.has-overflowing-overflow .local-nav-overflow-items .local-nav-overflow-btn svg {
+          background-color: #741a74;
+        }
+          .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-overflow-items .local-nav-item { border-image: linear-gradient(to bottom, #741a74 50%, #ffffff 100%) 1 100%; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-item .local-nav-sublinks .local-nav-sublink .local-nav-sublink-text span { color: #00102e; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-item .local-nav-sublinks .local-nav-sublink .local-nav-sublink-text:after { background-color: #00102e; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-item .local-nav-sublinks .local-nav-sublink .local-nav-sublink-text.local-nav-active:before { background-color: #741a74; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-item .local-nav-sublinks .local-nav-sublink:hover .local-nav-sublink-text { color: #0044c2; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-item .local-nav-sublinks .local-nav-sublink:hover .local-nav-sublink-text span { color: #0044c2; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-item .local-nav-sublinks { background-color: #d8f5fb; }
+        .module.local_nav_bar#ref-1-0 #local-nav-bar .local-nav-item.item-open .local-nav-top-item.local-nav-has-sublinks svg.local-nav-sublinks-arrow { fill: #d8f5fb;}
+
+
+  @import url('https://fast.fonts.net/t/1.css?apiType=css&projectid=f4cc15bc-4c0e-42bd-9b6d-36691097fe61');
+
+   
+    @font-face{
+      font-family: InspireTWDC;
+      font-weight: 400;
+      font-style: italic;
+      font-display: swap;
+      src: url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/InspireTWDC-Italic-64b6d4c17e7c.eot?#iefix')  format('embedded-opentype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/InspireTWDC-Italic-8e2a9d76e87c.woff') format('woff'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/InspireTWDC-Italic-f0fe28c64639.ttf') format('truetype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/InspireTWDC-Italic-e7800519503d.svg#InspireTWDC') format('svg');
+    }
+   
+    @font-face{
+      font-family: InspireTWDC;
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+      src: url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/InspireTWDC-Roman-889783b59e19.eot?#iefix')  format('embedded-opentype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/InspireTWDC-Roman-0679a1b070d1.woff') format('woff'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/InspireTWDC-Roman-f3ede4485e0f.ttf') format('truetype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/InspireTWDC-Roman-52097caaf411.svg#InspireTWDC') format('svg');
+    }
+   
+    @font-face{
+      font-family: AvenirNext;
+      font-weight: 400;
+      font-style: italic;
+      font-display: swap;
+      src: url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/440b64c9-a97b-4a0c-a6af-a6bb6d49c252-45b14f319ba1.eot?#iefix')  format('embedded-opentype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/5b8c6fdc-0ba4-4b65-87e4-d5ae51245ea5-3a70873ee876.woff') format('woff'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/c677d79d-442e-4c76-8db1-c29ac7788039-766a95704c72.ttf') format('truetype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/216291a0-f927-4f75-9de7-6e36c7fd7ebf-a063b8bcd74b.svg#AvenirNext') format('svg');
+    }
+   
+    @font-face{
+      font-family: AvenirNext;
+      font-weight: 700;
+      font-style: italic;
+      font-display: swap;
+      src: url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/770d9a7e-8842-4376-9319-8f2c8b8e880d-94a737b65036.eot?#iefix')  format('embedded-opentype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/bc350df4-3100-4ce1-84ce-4a5363dbccfa-d5ffbc6688eb.woff') format('woff'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/bc13ae80-cd05-42b4-b2a9-c123259cb166-f13e80f8ba51.ttf') format('truetype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/4862b373-2643-46b1-b0b5-88537c52d15c-e32f0114dca2.svg#AvenirNext') format('svg');
+    }
+   
+    @font-face{
+      font-family: AvenirNext;
+      font-weight: 700;
+      font-style: normal;
+      font-display: swap;
+      src: url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/12d643f2-3899-49d5-a85b-ff430f5fad15-a26d0a973355.eot?#iefix')  format('embedded-opentype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/91b50bbb-9aa1-4d54-9159-ec6f19d14a7c-7d6afb9bfc9a.woff') format('woff'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/a0f4c2f9-8a42-4786-ad00-fce42b57b148-220cfb221bdc.ttf') format('truetype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/99affa9a-a5e9-4559-bd07-20cf0071852d-29fab2150061.svg#AvenirNext') format('svg');
+    }
+   
+    @font-face{
+      font-family: AvenirNext;
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+      src: url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/0ecef829-586e-426d-a633-4c8a8c926769-ce8a2925688e.eot?#iefix')  format('embedded-opentype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/f401df6f-54eb-406c-b46a-90b9451c598d-3dbdcd65208c.woff') format('woff'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/276fe25e-e430-4376-b33c-705dd77b3dba-14611b06ed68.ttf') format('truetype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/869dc33b-3685-4d74-a51c-82b435579093-d3357d14474e.svg#AvenirNext') format('svg');
+    }
+   
+    @font-face{
+      font-family: AvenirNext;
+      font-weight: 500;
+      font-style: italic;
+      font-display: swap;
+      src: url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/d1fddef1-d940-4904-8f6c-17e809462301-826fe77c30bd.eot?#iefix')  format('embedded-opentype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/92b66dbd-4201-4ac2-a605-4d4ffc8705cc-8d68084351a4.woff') format('woff'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/18839597-afa8-4f0b-9abb-4a30262d0da8-6e2731aee2ad.ttf') format('truetype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/1de7e6f4-9d4d-47e7-ab23-7d5cf10ab585-36419fcc370f.svg#AvenirNext') format('svg');
+    }
+   
+    @font-face{
+      font-family: AvenirNext;
+      font-weight: 500;
+      font-style: normal;
+      font-display: swap;
+      src: url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/e9167238-3b3f-4813-a04a-a384394eed42-e1d3b592f63b.eot?#iefix')  format('embedded-opentype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/1e9892c0-6927-4412-9874-1b82801ba47a-a17c827d23b2.woff') format('woff'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/46cf1067-688d-4aab-b0f7-bd942af6efd8-7c6fbea20b5d.ttf') format('truetype'),
+           url('https://static-mh.content.disney.io/matterhorn/assets/drm_fonts/52a192b1-bea5-4b48-879f-107f009b666f-63df272b8cc0.svg#AvenirNext') format('svg');
+    }
+
+  :root{
+        --header-font-family: InspireTWDC, AvenirNext, Matterhorn, Matterhorn, Helvetica, sans-serif;
+        --header-font-weight: 400;
+        --header-font-style: normal;
+        --body-font-family: InspireTWDC, AvenirNext, Matterhorn, Matterhorn, Helvetica, sans-serif;
+        --body-font-weight: 400;
+        --body-font-style: normal;
+        --utility-font-family: InspireTWDC, AvenirNext, Matterhorn, Matterhorn, Helvetica, sans-serif;
+        --utility-font-weight: 400;
+        --utility-font-style: normal;
+        --globalchrome-font-family: InspireTWDC, AvenirNext, Matterhorn, Matterhorn, Helvetica, sans-serif;
+        --globalchrome-font-weight: 400;
+        --globalchrome-font-style: normal;
+        --globalfooter-font-family: InspireTWDC, AvenirNext, Matterhorn, Matterhorn, Helvetica, sans-serif;
+        --globalfooter-font-weight: 400;
+        --globalfooter-font-style: normal;
+  }
+
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+      .module h1,
+      .module h1 a,
+      .module h2,
+      .module h2 a,
+      .module h3,
+      .module h3 a,
+      #nav-local *,
+      #bottomnav h3,
+      #bottomnav h3 a,
+      #goc-menu dt a{
+        font-family: InspireTWDC, AvenirNext, Matterhorn, Matterhorn, Helvetica, sans-serif !important;
+        font-weight: 400;
+        font-style: normal;
+      }
+      .module,
+      .module input,
+      .module textarea,
+      .module select,
+      .module button,
+      .module.rich_article .summary *,
+      #modal-window,
+      #nav-local .gpt::after,
+      #bottomnav,
+      #goc-menu dd a,
+      #goc-menu .menu-subsection a{
+        font-family: InspireTWDC, AvenirNext, Matterhorn, Matterhorn, Helvetica, sans-serif !important;
+        font-weight: 400;
+        font-style: normal;
+      }
+      #utility input,
+      #utility .social-links,
+      #goc-body .regional-cookie-warning,
+      .module.rich_article .article-meta *,
+      .module.rich_article .category-labels,
+      .module.global_branded_nav button,
+      .module.global_branded_nav input,
+      .module.local_nav_links ul li a,
+      .module.local_nav_links ul li span,
+      .module.breadcrumb_links span,
+      .module.breadcrumb_links a,
+      .module.headlines .category-labels,
+      .module.headlines .publish-date,
+      .module.see_more_link a,
+      .module.card_grid .category-labels{
+        font-family: InspireTWDC, AvenirNext, Matterhorn, Matterhorn, Helvetica, sans-serif !important;
+        font-weight: 400;
+        font-style: normal;
+      }
+      #goc-menu #goc-button,
+      #goc-body #goc-bar a,
+      #goc-body #goc-bar input{
+        font-family: InspireTWDC, AvenirNext, Matterhorn, Matterhorn, Helvetica, sans-serif !important;
+        font-weight: 400;
+        font-style: normal;
+      }
+      #goc-ft a,
+      #goc-ft #goc-ft-copyright,
+      #goc-ft #goc-ft-about{
+        font-family: InspireTWDC, AvenirNext, Matterhorn, Matterhorn, Helvetica, sans-serif !important;
+        font-weight: 400;
+        font-style: normal;
+    }
+  }
